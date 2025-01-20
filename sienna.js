@@ -220,7 +220,7 @@
 			styles: {
 				"font-family": "OpenDyslexic3,Comic Sans MS,Arial,Helvetica,sans-serif"
 			},
-			css: '@font-face {font-family: OpenDyslexic3;src: url("https://website-widgets.pages.dev/fonts/OpenDyslexic3-Regular.woff") format("woff"), url("https://website-widgets.pages.dev/fonts/OpenDyslexic3-Regular.ttf") format("truetype");}'
+			css: '@font-face {font-family: OpenDyslexic3;src: url("https://storage.googleapis.com/msgsndr/2gJ1z1z2kfVYFjgexYmE/media/678d938501b60101ae160135.woff2") format("woff2");}'
 		};
 	var C = function() {
 			return C = Object.assign || function(t) {
